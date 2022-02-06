@@ -1,0 +1,23 @@
+.Aurthor{
+
+    color: blue;
+
+    }
+    .one{
+        background-color: azure;
+        
+        border: 5px solid rgb(140, 247, 0);
+        padding: 20px;
+        border-radius: 20px;
+        margin-bottom: 50px;
+       
+    }
+
+    h1{
+
+        text-align: center;
+        font-size: 40px;
+    }
+    .aaa{
+        text-align: justify;
+    }
